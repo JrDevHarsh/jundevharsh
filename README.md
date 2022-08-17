@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jundevharsh&label=Profile%20views&color=0e75b6&style=flat" alt="jundevharsh" /> </p>
 
-- 🔭 I’m currently working on [Amazon Clone React App](https://github.com/JunDevHarsh/amazon-clone-react-app)
+- 🔭 I’m currently working on [Amazon Clone](https://github.com/JunDevHarsh/amazon-clone)
 
 - 🌱 I’m currently learning **Back-End Languages**
 
