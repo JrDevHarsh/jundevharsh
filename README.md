@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://github.com/JunDevHarsh/amazon-clone)
 
-- 🌱 I’m currently practicing **Data Structures & Algorithms** and learning **Front-End Frameworks**
+- 🌱 I’m practicing **Data Structures & Algorithms** and learning **Front-End Frameworks**
 
 - 👨‍💻 Check Out my [Portfolio](https://portfolio-jundevharsh.netlify.app/)
 
