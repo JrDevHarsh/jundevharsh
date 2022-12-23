@@ -6,15 +6,13 @@
     <img src="https://komarev.com/ghpvc/?username=jundevharsh&label=Profile%20views&color=0e75b6&style=flat" alt="jundevharsh" />
 </p>
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/JunDevHarsh/amazon-clone)
-
 - 🌱 I’m practicing **Data Structures & Algorithms** and learning **Front-End Frameworks**
 
 - 👨‍💻 Check Out my [Portfolio](https://portfolio-jundevharsh.netlify.app/)
 
 - 📫 How to reach me - [E-mail](harsh.code97@gmail.com)
 
-- 📄 Know more about me - [Resume](https://drive.google.com/file/d/1CIBABvQJ1FiFseKjvAZBP2fnPCRTvUbD/view)
+- 📄 Know more about me - [Resume](https://drive.google.com/file/d/1NNcjoc1Kbf8L62QZbuEmngeVBN23EEgu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
