@@ -8,8 +8,6 @@
 
 - 🌱 I’m practicing **Data Structures & Algorithms** and learning **Front-End Frameworks**
 
-- 👨‍💻 Check Out my [Portfolio](https://portfolio-jundevharsh.netlify.app/)
-
 - 📫 How to reach me - [E-mail](harsh.code97@gmail.com)
 
 - 📄 Know more about me - [Resume](https://drive.google.com/file/d/1NNcjoc1Kbf8L62QZbuEmngeVBN23EEgu/view?usp=sharing)
