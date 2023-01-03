@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jundevharsh&label=Profile%20views&color=0e75b6&style=flat" alt="jundevharsh" />
 </p>
 
-- 🌱 I’m practicing **Data Structures & Algorithms** and learning **Front-End Frameworks**
+- 🌱 I’m practicing and learning **Front-End Frameworks**
 
 - 📫 How to reach me - [E-mail](harsh.code97@gmail.com)
 
